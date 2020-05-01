@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.bar ul li a{
+    margin-right: 75px;
+
+}
+
+.comname{
+    margin-left: 75px;
+}
+
+.container{
+    background-color: rgb(252, 252, 189); 
+    text-align: center;
+    margin-top: 20px;
+    border: solid black;
+    border-radius: 15px;
+
+}
+
+.logomy{
+    border: solid;
+    padding: 8px;
+    margin-top: 30px;
+    border-radius: 45px;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.intro{
+    color: bold;
+    margin-top: 15px;
+}
+
+.btnone{
+    background-color: black;
+    border-radius: 8px;
+}
+
+.hdone{
+    margin-top: 15px;
+}
